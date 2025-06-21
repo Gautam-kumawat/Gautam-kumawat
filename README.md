@@ -27,28 +27,34 @@ I am a🎓 BCA Student | 💻 Aspiring Software Engineer | 🌱 Learning HTML, C
 </div>
 
 ### 🖥️ Backend Development (Learning)
-<img src="https://skillicons.dev/icons?i=nodejs" height="33" alt="nodejs logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=django" height="33" alt="django logo"  />
-<img width="12" />
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="33" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="33" alt="django logo"  />
+  <img width="12" />
+</div>
 
 ### 🖥️ Programming Languages
-<img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=java" height="33" alt="java logo"  />
-<img width="12" />
+<div>
+  <img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="33" alt="java logo"  />
+  <img width="12" />
+</div>
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=git" height="33" alt="git logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=vscode" height="33" alt="vscode logo"  />
-<img width="12" />
+<div>
+  <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="33" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="33" alt="vscode logo"  />
+  <img width="12" />
+</div>
 
 ## 🛠️ Some Extra Skills I Have!!
 - 📄 MS Word, 📊 Excel, 📈 Advanced Excel, 🎞️ PowerPoint
