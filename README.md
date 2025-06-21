@@ -13,16 +13,18 @@ I am a🎓 BCA Student | 💻 Aspiring Software Engineer | 🌱 Learning HTML, C
 
 ## 🛠️ Skills I Have!!
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=css" height="33" alt="css3 logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="33" alt="bootstrap logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
-<img width="12" />
+<div>
+  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="33" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="33" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
+  <img width="12" />
+</div>
 
 ### 🖥️ Backend Development (Learning)
 <img src="https://skillicons.dev/icons?i=nodejs" height="33" alt="nodejs logo"  />
